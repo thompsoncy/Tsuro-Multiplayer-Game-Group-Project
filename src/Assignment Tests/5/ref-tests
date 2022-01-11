@@ -1,0 +1,5 @@
+input : ["jack","alice","bob","jim","joe"]
+output: {"winners":[["jack"]],"losers":["alice","bob","jim","joe"]}
+
+input : ["jack","alice","bob"]
+output: {"winners":[["alice"]],"losers":["jack","bob"]}
